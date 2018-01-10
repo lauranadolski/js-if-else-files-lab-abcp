@@ -3,6 +3,8 @@ var height = "74"
 
 if (name === "Susan") {
   console.log ("The name is right on, dood!")
+} else {
+  console.log ("Whoops, I was looking for Susan, is she around?")
 }
 
 
